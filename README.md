@@ -127,7 +127,7 @@ Connectigo 目前主要提供三种套餐：
 
 ### 1. 实际测速截图
 
-![Connectigo VPN 节点测速结果](./images/connectigo-speedtest.jpg)
+![Connectigo VPN 节点测速结果](./20261104-193026.jpg)
 
 **本次测试信息：**
 
